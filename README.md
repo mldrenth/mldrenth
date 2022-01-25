@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marijke!
-- 👀 I’m interested in travel, good food, languages and web development.
-- 🌱 I’m currently learning JavaScript, HTML and CSS. (and Greek :P)
+- 👀 I’m interested in travel, good food, languages and software development.
+- 🌱 I’m currently learning JavaScript, Python and Java. (and Greek :P)
 
 
 <!---
